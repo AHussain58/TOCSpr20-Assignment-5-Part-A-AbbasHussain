@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "TOC-Assignment-5-Part-A",
+"productVersion": "0.1",
+"dataUrl": "z-Assignment5_Webgl.data.unityweb",
+"wasmCodeUrl": "z-Assignment5_Webgl.wasm.code.unityweb",
+"wasmFrameworkUrl": "z-Assignment5_Webgl.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.13f1"
+}
